@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68c46a7e80040c6b",
+        "id": "f2ea8bddb66c4400",
         "type": "tabs",
         "children": [
           {
-            "id": "2c64a5b815b90acb",
+            "id": "477e597ba2fa0d13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md"
+              }
             }
           }
         ]
@@ -138,6 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c64a5b815b90acb",
-  "lastOpenFiles": []
+  "active": "477e597ba2fa0d13",
+  "lastOpenFiles": [
+    "hombis Kosmos/Inhaltsangaben/Die Zukunft des Gehirns.md",
+    "hombis Kosmos/Atomizen/Epigenetik.md",
+    "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
+    "hombis Kosmos/Atomizen/Erziehung.md",
+    "Untitled.canvas",
+    "ineptitud.md",
+    "vergesslich.md",
+    "Checkliste.md",
+    "hombis Kosmos/Inhaltsangaben/Die Entwicklung der Sprache.md",
+    "hombis Kosmos/Unbenannt.md",
+    "hombis Kosmos/Atomizen/TDD Cycle.md"
+  ]
 }

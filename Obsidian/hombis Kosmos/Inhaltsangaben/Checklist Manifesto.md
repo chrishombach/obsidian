@@ -1,0 +1,51 @@
+*Atul Gawande, 2009*
+
+-------------------------------------
+
+- Die Welt und viele Jobs haben komplexe Abläufe und sind komplex.
+- Dinge gehen schief weil
+	- Man die [[Prozedur]]en nicht kann oder kennt
+	- Man Schritte der Prozeduren ignoriert
+	- Man lernt die notwendigen Schritte, wendet sie aber falsch an
+- Lösung [[Checkliste]]
+- [[Checkliste]] helfen, weil
+	- Menschen [[vergesslich]]l sind
+	- Menschen triviale Schritte ignorieren
+- Woher kommen [[ineptitud]]e Fehler?
+	- Der Umfang und die Komplexität dessen, was wir kennen hat unsere individuelle Fähigkeit Vorteile korrekt, sicher und verlässlich zu liefern überschritten. ([[Veränderung des Lernens an kultureller revolution]])
+	- Strategie: [[Checkliste]]
+- In einer komplexen Umgebung haben Experten zwei Schwierigkeiten zu bewältigen:
+	- Unzulänglichkeit der [[Erinnerung]]
+	- Überspringen von Schritten, obwohl man sie kennt
+	-> Checklisten ermöglichen Schutz vor diesen Schwierigkeiten, da sie uns an alle Schritte erinnern und zwingen keinen zu überspringen
+- In welchen Szenarien nützen Checklisten:
+	- Drei Arten Probleme:
+		- Einfache (Simple Problems):
+			- Es gibt eine bewährte Lösung, die immer klappt (Kuchen backen)
+		- Komplizierte (Complicated Problems):
+			- Das Problem lässt sich in einfache Probleme runterbrechen, die immer klappen. Aber es gibt keine direkte Lösung. Hat man diese jedoch einmal gefunden lässt sie sich immer wieder anwenden ([[Rakete]]n bauen)
+		- Komplexe Probleme (Complex Problems):
+			- Für das Problem gibt es keine einfache Lösung, Expertise allein hilft nicht, der Ausgang ist stets ungewiss [[Erziehung]]
+		- Für die ersten beiden Punkte mache Cheklisten Sinn
+- Wie funktionieren komplexe Unterfangen?
+	- Komplexe Unterfangen haben immer seltener einen Overseer
+	- Autonome Gruppen mit individuellen Kompetenzen
+	- Drei wichtige Punke:
+		- Checklisten
+		- Planung
+		- [[Kommunikation]]
+	- Bei routinemäßigen Tätigkeiten kann von oben nach unten deligiert werden
+		- Checklisten als Guidance
+	- Treten Probleme auf müssen die von der [[Peripherie]] aus gelöst werden.
+		- Checklisten machen hier keinen Sinn, da Raum für individuelle Lösungen geben sein muss
+	-> Checklisten sollen dumme Fehler verhidern und die Kommunikation fördern
+	   Selbst einige Minuten Reden erhöhen den Teamgeist
+     -> Komplizierte & unverständliche Checklisten lenken vom eigentlichen Problem ab
+- Zwei Arten Checkliste:
+	- DO-CONFIRM: Es wird erst gemacht, dann gestoppt und die Checks laut abgehakt
+	- READ-DO: Es wird gestoppt, vorgelesen und gehandelt.
+	- Welche man nimmt kommt auf den Kontext und die Dringlichkeit an
+- Checklisten müssen getestet werden
+- Checklisten müssen helfen und stetig verbessert werden
+- Checklisten brauchen [[Disziplin]]
+

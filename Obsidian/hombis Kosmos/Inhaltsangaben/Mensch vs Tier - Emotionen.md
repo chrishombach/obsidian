@@ -18,6 +18,6 @@ Quelle: [[stetka-2021]] Kap 10: Temperament of a dog
 	* Das [[Gehirn]] des Menschen ist vor 10,000 bis 30,000 Jahren geschrumpft.
 * Domestizierung macht freundlicher -> feundliche Umgebung sorgt für komplexere [[Sprache]]
 * Domestizierung sorgt für friedlicher Umgebung, was einer Förderung der sprachlichen Fähigkeiten zugute kommt -> Vögel lernen in friedlicher Umgebung komplexere Lieder
-* [[Crest Zellen]] laufen bei Embroyenen die Wirbelsäule hinunter -> Domestizierung führt zu reduzierter [[crest Zellen]] Entwicklung, die softer Features hervorruft.
+* [[Crest Zellen]] laufen bei Embroyenen die Wirbelsäule hinunter -> Domestizierung führt zu reduzierter [[Crest Zellen]] Entwicklung, die softer Features hervorruft.
 * Die Entwicklung der [[Crest Zellen]] ist [[Gen]]entisch bedingt.
 * Selbstdomistizierung führte zu Neurochemie im [[Gehirn]], welches zu einem ruhigeren Temparament führt (reduzierte [[Dopamin]] und [[Serotonin]] Level). Evolution bevorzugte Rationalität über Aggresivität. 

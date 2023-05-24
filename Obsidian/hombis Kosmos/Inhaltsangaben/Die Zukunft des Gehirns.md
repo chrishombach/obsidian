@@ -13,7 +13,7 @@ Quelle [[stetka-2021]] :Kap 15 Future Sapiens
 	- Erste [[Gehirn]]zellen werden im Labor gezüchtet. 
 - **Evolution**
 	- [[Kulturelle Revolution]] bedeutend schneller als [[Evolution]]
-	- Dennoch fand immer [[selektion]] statt (Hautfarbe: In nordlicheren Gegenden haben sich selektiv hellere Hautfarben durch gesetzt, Immunität: Genome, die eher immun gegen Krankheiten sind setzen sich durch)
+	- Dennoch fand immer [[Selektion]] statt (Hautfarbe: In nordlicheren Gegenden haben sich selektiv hellere Hautfarben durch gesetzt, Immunität: Genome, die eher immun gegen Krankheiten sind setzen sich durch)
 	- Selbst moderne Ereignisse, wie [[Genozid]]e, [[Pandemie]]n ([[COVID19]]) verändern den Genom der Menschheit durch [[Selektion]] 
 	- Theorie: Da dumme Menschen eher sterben als schlaue, wird die Menschheit sich in Richtung schlauer Menschen entwickeln
 		- 1947 wurde die Intelligenz von 65,000 schottischer Kinder gemessen und 2015 ihre Sterblichkeit untersucht: Lineare Korrelation zwischen Lebenserwartung und Intelligenz ist da
