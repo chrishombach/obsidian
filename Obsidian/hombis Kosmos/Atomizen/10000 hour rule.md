@@ -1,0 +1,1 @@
+[[Malcom Gladwell]] Man benötigt 10,000 Stunden intensiven Übens um eine komplexe Fähigkeit zu meistern.

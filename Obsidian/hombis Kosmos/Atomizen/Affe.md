@@ -1,0 +1,2 @@
+Affe: [[Monkey]]
+Menschenaffe: [[Ape]]

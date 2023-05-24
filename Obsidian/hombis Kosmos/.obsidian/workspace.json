@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "610ccbe86cc73e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "339d8f141057a416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159027f35f0ad166",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21c4b2687350c875",
+    "type": "split",
+    "children": [
+      {
+        "id": "449c333c637bcc1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1912b53e2251e0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eca8adeac3909d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a49626ba1d2ccaa0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c2514688c68d0908",
+    "type": "split",
+    "children": [
+      {
+        "id": "caef18c6bad20c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f885ade7924a10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "1912b53e2251e0c3",
+  "lastOpenFiles": [
+    "webinar.md",
+    "Quellen/heise-webinar-microservices1.md",
+    "Inhaltsangaben/Probleme beim Unit Test.md",
+    "Inhaltsangaben/Mensch vs Tier - Emotionen.md",
+    "Inhaltsangaben/Russland - Die Macht der Geographie.md",
+    "Inhaltsangaben/Was sollen wir denn Essen.md",
+    "Unbenannt.md",
+    "Kind.md",
+    "Mutation.md",
+    "Programmiersprachen.md"
+  ]
+}

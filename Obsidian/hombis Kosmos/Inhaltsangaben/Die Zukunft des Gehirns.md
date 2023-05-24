@@ -1,0 +1,34 @@
+Quelle [[stetka-2021]] :Kap 15 Future Sapiens
+- Was ist an der Entwicklung des Gehirns beteiligt?
+- **Genetische Manipulation
+	- [[Epigenetik]] : Mangelnde Sozialaktivitäten und Kommunikation via [[Smartphone]] könnten epigenetischen Einfluss haben:
+		- [[Soziale Netzwerke]] fördern vielleicht die selben Informationen und [[Gossip]], wie es der Mensch seit Jahrtausenden tut. 
+		- Allerdings ändert sich die Art der Kommunikation hin zu einer Selbstorientierten
+		- Könnte epigenetischen Effekt haben oder auf andere Generationen weitegegeben werden??
+		- [[Glück]] scheint mit einem Gefühl der [[Gemeinschaft]] zusammen zuhängen. [[Soziale Netzwerke]] distanzieren ihre Mitglieder -> Höheres Maß an unglücklich sein.
+		- Auf der anderen Seite finden sich via Tinder Paare, die vielleich klassisch nicht zusammen gekommen wären -> Einfluss auf Genom
+	- [[Genetik Engineering]]: [[Genom]] kann technisch manipuliert werden (Überschreibung/ erweiterung)
+		- [[CRISPR-Cas9]] an Fortpflanzungszellen weitesgehends verboten, in [[Russland]] und [[China]] wird das wohl doch gemacht.
+	- [[Stammzellen]] Forschung: Zellen können in stammzellen zurückgeführtwerden. [[CRISPR-Cas9]] kann auch am [[Gehirn]] angewendet werden.
+	- Erste [[Gehirn]]zellen werden im Labor gezüchtet. 
+- **Evolution**
+	- [[Kulturelle Revolution]] bedeutend schneller als [[Evolution]]
+	- Dennoch fand immer [[selektion]] statt (Hautfarbe: In nordlicheren Gegenden haben sich selektiv hellere Hautfarben durch gesetzt, Immunität: Genome, die eher immun gegen Krankheiten sind setzen sich durch)
+	- Selbst moderne Ereignisse, wie [[Genozid]]e, [[Pandemie]]n ([[COVID19]]) verändern den Genom der Menschheit durch [[Selektion]] 
+	- Theorie: Da dumme Menschen eher sterben als schlaue, wird die Menschheit sich in Richtung schlauer Menschen entwickeln
+		- 1947 wurde die Intelligenz von 65,000 schottischer Kinder gemessen und 2015 ihre Sterblichkeit untersucht: Lineare Korrelation zwischen Lebenserwartung und Intelligenz ist da
+		- Das hat sicher auch mit sozioökonomischen Bedingungen zu tun (Schlaue Leute verdienen eher Geld -> höherer Lebensstandart), aber selbst mit diesen Faktoren rausgerechnet, ergeben immer noch eine Korrelation zwischen Intelligenz und [[Mortalität]]. (Eigene Notiz: Ärmere Menschen haben aber tendenziell mehr Kinder als reiche....)
+	- [[Migration]]en haben Einfluss auf Genom, da das einen Einfluss darauf hat wer mit wem Kinder hat
+	- Regionale Mikro-[[Selektion]]en: Im [[Silicon Valley]] werden mehr Kinder mit authistischen ([[Autismus]]) Zügen geboren.
+	- -> Aber würde man ein Baby von vor 2,000 Jahren jetzt groß werden lassen, oder umgekehrt, wäre kein Unterschied zu merken.
+- **Digitalisierung**
+	- Ist die Zukunft des Gehirns [[digital]]? Ist es möglich Bewusstsein in [[KI]] zu stecken? 
+	- Was ist [[Bewusstsein]]?
+		- [[Dualismus]]
+			- [[Qualia]]  -> [[Descartes]] Körper & Geist sind getrennt -> Wie kann ein physischer Klumpen Zellen ([[Gehirn]]) [[Erfahrung]]en und [[Qualia]]s kreieren.
+			- Hat eine Entität, die sich verhält, bewegt, redet wie ein Mensch [[Bewusstsein]] ([[Turning]])?
+		- Gegenansicht [[Panpsychismus]]: Alle existenten Objekte haben [[Bewusstsein]]!
+			- [[Descartes]]: Maschinen handeln nicht, weil sie verstehen, sonder weil sie über Organe verfügen, die ihr Handeln anleitet
+			- [[IIT]]:  [[Bewusstsein]] eintsteht aus Summe aller [[Qualität]]en, die Qualitäten hervorkommen lassen, die die Einzelteile nicht haben ([[Wasser]] [[Stadt]])
+		- [[Materialismus]]:
+			- Bewusstsein existiert nicht -> Illusion des [[Gehirn]]s.

@@ -1,0 +1,5 @@
+- [[Kulturelle Revolution]]: Dadurch, dass der Mensch sein Wissen an weitere Generationen weitergeben konnte stieg der Fortschritt enorm
+- Problem an [[Moderne]]: Gültigkeit von Wissen/Fähigkeiten ist von immer kürzerer Dauer ([[Programmiersprachen]],[[Technik]],...)
+	- Dengeneriert die Menschheit deswegen?
+- Lösung: Menschen müssen nicht mehr zwingend Wissen weitergeben, sondern die Fähigkeit Wissen zu erlangen
+- [[Schule]] sollte sich auf das erlangen von Wissen konzentrieren und nicht dem Wissen selbst! 

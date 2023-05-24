@@ -1,0 +1,4 @@
+- Fähigkeit zur Vorstellung oder Entwicklung orginärer Ideen [[stetka-2021]]
+- Kombination von vorhandenen Elementen zu neuem Output 
+- Aus Notlagen entwickeln intelligente Wesen Kreativität
+- [[Kunst]] als Ausdruck (emotionaler) Notlage

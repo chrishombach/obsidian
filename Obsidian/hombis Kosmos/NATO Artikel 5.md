@@ -1,0 +1,1 @@
+Die Parteien vereinbaren, dass ein bewaffneter Angriff gegen eine oder mehrere von ihnen in Europa oder Nordamerika als ein Angriff gegen alle angesehen wird.

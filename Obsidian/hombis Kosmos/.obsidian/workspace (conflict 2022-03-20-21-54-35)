@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "863a6e6e75c9f525",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb42f1f31a64c2d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c5d4e8d090db335",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ace07a0d30ab200a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6476d06d4d3ecec6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "80c3303d228c3ef7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e32bc180b05ec6a2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "efb42f1f31a64c2d",
+  "lastOpenFiles": [
+    "Atomizen/integrationstest.md",
+    "Inhaltsangaben/Die Entwicklung der Sprache.md",
+    "Inhaltsangaben/Die friedliche Seite der Bonobos und des Menschen.md",
+    "Quellen/heise-webinar-microservices1.md",
+    "Templates/Note.md",
+    "Inhaltsangaben/Probleme beim Unit Test.md",
+    "Atomizen/unit test.md",
+    "Atomizen/TDD Cycle.md",
+    "Atomizen/Software Test.md",
+    "Atomizen/Ape.md"
+  ]
+}

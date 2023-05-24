@@ -1,0 +1,28 @@
+Quelle [[stetka-2021]] :Kap 13 The creatives
+
+- [[Kreativität]] nicht exklusiv menschlich ->  Andere Tiere finden kreative Lösungen um Vorteil in Notsituation zu erhalten
+- Innovationen sind [[evolution]]är vorteilhaft
+	- Vögel in sich änderner Umgebung haben größere Gehirne
+	- Wenn Nahrungsquellen nicht zuverlässig sind, muss man kreativ werden
+- [[Kreativität]] ist Haupttreiber der [[Gehirn]]entwicklung
+- Zähmung des Feuers -> Aufrechter Gang -> Hände frei -> [[Werkzeug]]e/[[Waffe]]nentwicklung -> [[Kunst]]
+- Jagen & Kochen durch Entwicklung von Werkzeug einfacher -> [[Kreativität]] -> Chicken-Egg-Problem:
+	- Fortgeschrittene Werkzeugentwicklung erfordert ein größeres [[Gehirn]] als andere Tiere haben
+	- Durch Nachmachen / Lernen entwicklet sich fortgeschrittenes Werkzeug machen
+		-> [[Soziale Entwicklung]] / evt. Vorstufe zur Sprache
+	- Durch Sprache konnten kraetive Ideen an weitere Generation übermittelt werden
+- Austausch von Ideen unterscheidet sich der Mensch vom Tier (s. [[harari-2011]])
+	- Symbolismus beschleunigt diesen Prozess (Primaten entwicklen drittes retinales Zäpfchen, um rot sehen zu können-> Bessere [[Selektion]] von reifen Früchten -> Warnungen Symbolik)
+	- Entwicklung zunächst bestimmt von zufälligen Mutationen der Genen bestimmt -> Später kam es durch die Entwicklung der Kultur und deren Übermittlung immer schnellere Fortschritte dazu. 
+	- Genetisch haben wir uns in den vergangenen 90,000 Jahren nicht verändert, kulturell/ gesellschaftlich in den vergangenen 5,000 Jahren drastisch ([[harari-2011]]: [[Kulturelle Revolution]])
+- Mit der Srpache hat sich der Gesang entwicklet
+	- das Primatengehirn triggert bei Tonmustern und [[Rhythmik]] -> Entwicklung der [[Musik]]
+	- Erste Instrumente vor 35,000 Jahren (Flöten und Trommeln)
+- [[Kunst]] als Form der [[Kreativität]] hat sich entwickelt -> Man hat werke gefunden (Töpferei), die nur der Belustigung und sonst keine,m Zweck gedient haben
+- Zwei Theorien:
+	- Musik & [[Kunst]] sind Beisprodukte der menschlichen Entwicklung
+	- Musik & [[Kunst]] haben die Entwicklung gefördert -> Soziale Komponente
+- Entwicklung der [[Religion]] und [[Spiritualität]] :
+	- Tiere, Orte, Objekte wurde spirituelle Bedeutung zugesprochen
+	- Aus diesen Ideen wurden Götter -> [[Religion]]
+	- Fördert gesellschaftliches Handeln -> Auch wenn Entitäten nicht existieren

@@ -1,0 +1,1 @@
+[[NATO Artikel 5]]

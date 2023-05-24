@@ -1,0 +1,4 @@
+- *-zid* Endung für Tötung
+- [[Homizid]]: Tötung eines einzelnen Menschen
+- [[Genozid]]: Völkermord
+- [[Suizid]]: Selbsttötung

@@ -1,0 +1,65 @@
+[[marshall - 2015]]
+Kapitel 1: [[Russland ]]
+
+- *Es ist ein Rätsel, das von einem Mysterium umgeben ist und in einem Geheimnis steckt. Doch vielleicht gibt es einen Schlüssel. Und dieser Schlüssel ist das nationale Interesse der Russen.* [[Chruchill]] (1939)
+- [[Russland]] im Mantel [[Demokratie]], im Kern [[Autokratie]] -> starke [[National]]e Interessen.
+- [[Polen]] aus russischer Sicht schmaler Eingangskeil nach Europa (Daher historisch starke Bestrebungen Richtung Polen).
+- Keil war Teil der [[Sowjetunion]] und [[Warschauer Pakt]].
+- [[NATO Osterweiterung]] -> bedenklich für Russland.
+- [[Russland]] wurde im 9. Jhd in [[Kiew]] gegründet. 
+- Nach Angriff der Mongolen([[Mongolei]]) -> Umsiedlung in die Gegend von [[Moskau]].
+- [[Moskau]] liegt in einer Ebene, geographisch nicht zu verteidigen. -> Aggressive Expansion durch [[Iwan der Schreckliche]].
+	- Erweiterung nach Osten -> Sichere Grenze durch Polarmeer im Norden und [[Ural]] im Osten.
+	- Weite Strecken im Süden und Südosten, so dass angreifende Armee lange Nachschubstrecken errichten müssten.
+- 18 Jhd: Erweiterung nach Westen durch [[Peter der Große]] und [[Katharina die Große]].
+	- Unterwerfung der [[Ukraine]] und der [[Balkanstaaten]].
+- 20 Jhd: Kommunistisch([[Kommunismus]]) geführtes [[Russland]] gründet [[Sowjetunion]]. -> Aufstieg zur [[Supermacht]].
+- Große Teile der Bevölkerung sind keine Russen -> Straffe Staatsführung.
+- Invasion der [[Sowjetunion]] in [[Afghanistan]] 1979: Motivation war Zugang zum indischen Meer.
+	- Durch Berge im [[Hindukusch]] und Ebenen von [[Kandahar]] ist es bisher keiner Besatzungsmacht gelunden [[Afghanistan]] einzunehmen.
+- Ende der [[Sowjetunion]]: Zerfall in Staaten, die sich eher an geographischen Gegebenheiten und kulturellen Unterschieden orientieren.
+- Ehemalige Staaten lassen sich in drei Kategorien unterteilen:
+	- *Neutral*: ([[Usbekistan]],[[Aserbaidschan]],[[Turkmenistan]]) Können ihre Energie selbst erstellen, sind also weder auf [[Russland]] oder dem Westen angewiesen.
+	- *Pro-Russisch*: ([[Kasachstan]], [[Kirgisistan]], [[Tadschikistan]],[[Weißrussland]],[[Armenien]]): Enge wirtschaftliche Verbindungen zu [[Russland]], wie auch die [[Ost-Ukraine]].
+	- *Pro-Westlich*: ([[Polen]],[[Lettland]],[[Litauen]],[[Estland]],[[Tschechische Republik]],[[Bulgarien]],[[Ungarn]],[[Slowakai]],[[Albanien]],[[Rumänien]]) Staaten, die heutzutage zu der [[EU]] und/oder der NATO gehören. ([[Georgien]],[[Ukraine]],[[Modawien]]) Haben am meisten unter der sowjetischen Tyrannei gelitten. Liegen geopolitisch nahe an Russ -> Tendenzielle keine Mitgliedschaft in EU oder [[NATO]]. *Eine NATO MItgliedschaft auch nur eines dieser drei Länder könnte einen Krieg auslösen.*
+- Eine Pro-Russische [[Ukraine]] bedeutet eine intakte Puuferzone, selbst Neutralität mit Zugang zum Seehafen auf der [[Krim]] für Russland ist akzeptabel.
+- Eine Anbindung der [[Ukraine]] an den westen beutet den Verlust der Pufferzone und somit der Westen dirket vor der Tür [[Russland]]s.
+- 2013: Ukrainsche Präsident [[Janukowytsch]] stand vor Handelsabkommen mit [[EU]], [[Putin]] interveniert und erhöhte Druck.
+- [[Janukowytsch]] steigt aus dem Geschäft aus, was zu Protesten in der [[Ukraine]] und zu seinem sturz führte.
+- [[Deutschland]] und [[Amerika]] unterstützen pro-westliche Seite.
+- [[Ukraine]] geteilt, pro westlich im Westen, pro russisch im Osten. 
+- [[Putin]] annektiert die [[Krim]] , um Zugang zu einem Seehafen zu haben, der nicht vereist ist.
+- Einziger Zugang zum [[Mittelmeer]] vom [[schwarzen Meer]] ist über den [[Bosporus]], der von der [[Türkei]] ([[NATO]] Mitglied) kontrolliert wird.
+- ![[Pasted image 20220702131146.png]]
+- Seezugang zur [[Nordsee]] ist durch Meerenge von [[Dänemark]] und [[Norwegen]] kontrolliert. -> Notwendigkeit der Annexion der [[Krim]] um Zugang zum Meerhandel zu erhalten.
+- [[Krim]]: ursprünglich russisch, wurde 1954 von [[Chruschtschow]] der [[Ukraine]] geschenkt (als Teil der [[Sowjetunion]] schien das unproblematisch).
+	- -> Argumentation Putins: Krim ist eigentlich russisch.
+- Als die [[Ukraine]] sich dem Westen näherte, wurde erwägt russisch als 2. Amtsprache abzuschaffen, was auf Missmut der russisch sprechenden Bevölkerung stieß.
+- [[Russland]] hat ein Gesetz verabschiedet, was es zur Pflicht macht [[ethnische Russen]] zu schützen: Der Begriff ist vage formuliert und rechtfertigt Einsatz Russlands gegenüber allen, die Russland für ethisch russisch hält.
+- Da 60% der [[Krim]]bevölerung ethnische Russen sind, galt dies als Rechtfertigung für die Annektion.
+- Einschreiten des Westens war bei der Annektion gering:
+	- [[Ukraine]] ist kein [[NATO]] Land -> keine vertraglich/militärische Notwendigkeit.
+		- Daher ist [[Moskau]] weit weg.
+	- Westliche Länder (auch [[Deutschland]]) sind abhängig vom russischen [[Gas]].
+- [[Ost-Ukraine]] Teil [[Russland]]s unter [[Katharina die Große]]. [[Putin]] sieht diesen Teil als russisch und schürt dort Unruhen.
+- *Russland ist mit der Ukraine und auch anderen Gebieten noch nicht fertig*
+- [[Georgienkrieg]]  2008 galt als Warnung an den Westen und die [[NATO]].
+- Als Reaktion plante die [[NATO]] militärübungen im [[Baltikum]].
+- Würde [[Russland]] [[Baltikum]] angreifen, muss [[NATO]] gemäß [[NATO Artikel 5]] eingreifen.
+- [[Baltikum]] nahe an [[Russland]] mit vielen Einwohnern russicher Ethnie -> Fühlen sich unterrepresentiert.
+- [[Russland]] hat Hebel auf [[Gas]]lieferungen in [[Baltikum]].
+- Russland wird Interessen weiter verfolgen und Einfluss ausüben -> Angriff ist unwahrscheinlich.
+- Eher Ziel russicher Angriffe [[Moldawien]] über [[Ukraine]].
+- [[Moldawien]] geographisch Ebene zwischen [[Kaparten]] und [[schwarzen Meer]] -> zugang zu [[Russland]]. Durch Moldawien fließt die [[Donau]].
+-   [[Stalin]] hatte Russen in Teil von [[Modlawien]] ([[Transnistrien]]) angesiedelt -> Argument der russischen Ethnie.
+- [[Modlawien]] ist abhängig von russischer [[Energie]], liefert Wein & Getreide.
+- [[Georgien]]: Nach Georgienkrieg 2008 sind große Landesteile von russischen Truppen besetzt.
+- [[Georgien]] strebt [[NATO]] mitgliedschaft an, wird aber bislang abgewiesen wegen unausweichlichem Konflikt mit [[Russland]].
+- [[Russlands]] mächtigste Waffen sind [[Öl]] und [[Gas]]. -> Russland hat europäische Energielieferungen fest im Griff. Je näher ein Land an Russland liegt, desto mehr russisches Gas wird bezogen. Je besser die Verhältnisse zu Russland sind desto günstiger ist es.
+- [[Deutschland]] bezieht etwa die Hälfte des [Gas]es aus [[Russland]].
+- [[Amerika]] Boom durch Schiefergasgewinnung [[Fracking]] -> Export nach [[Europa]].
+- [[LNG]] Terminals für Transport über [[Atlantik]] in Europa im Aufbau.
+- -> Spannung zwischen [[Russland]] und [[Amerika]] wegen Gasmarkt in Europa.
+- [[Russland]] sichert sich Einfluss in der ganzen Welt: Annäherung an [[Venezuela]].
+- Herzliche Verbindungen zu [[China]]: [[Russland]] exportiert [[Gas]], [[China]] liefert Güter.
+- Interne Probleme [[Russlands]]: [[Demographie]] Geburtenrückgang
