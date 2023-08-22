@@ -11,9 +11,23 @@
             "id": "477e597ba2fa0d13",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6534f0b818e6971f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd0020474fbbf06",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
+                "file": "hombis Kosmos/Quellen/stetka-2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +158,17 @@
   },
   "active": "477e597ba2fa0d13",
   "lastOpenFiles": [
+    "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
+    "hombis Kosmos/Gedanken/Veränderung des Lernens an kultureller revolution.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
+    "hombis Kosmos/Quellen/newport-2016.md",
+    "hombis Kosmos/Quellen/stetka-2021.md",
+    "hombis Kosmos/Quellen/marshall - 2015.md",
+    "hombis Kosmos/Quellen/harari-2011.md",
+    "hombis Kosmos/Quellen/Bibliothek.md",
+    "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
     "hombis Kosmos/Inhaltsangaben/Die Zukunft des Gehirns.md",
     "hombis Kosmos/Atomizen/Epigenetik.md",
-    "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
     "hombis Kosmos/Atomizen/Erziehung.md",
     "Untitled.canvas",
     "ineptitud.md",

@@ -12,7 +12,7 @@
 	- Menschen [[vergesslich]]l sind
 	- Menschen triviale Schritte ignorieren
 - Woher kommen [[ineptitud]]e Fehler?
-	- Der Umfang und die Komplexität dessen, was wir kennen hat unsere individuelle Fähigkeit Vorteile korrekt, sicher und verlässlich zu liefern überschritten. ([[Veränderung des Lernens an kultureller revolution]])
+	- Der Umfang und die Komplexität dessen, was wir kennen hat unsere individuelle Fähigkeit Vorteile korrekt, sicher und verlässlich zu liefern überschritten. ([[Veränderung des Lernens an kultureller revolution]], [[Deep Work - Introduction]])
 	- Strategie: [[Checkliste]]
 - In einer komplexen Umgebung haben Experten zwei Schwierigkeiten zu bewältigen:
 	- Unzulänglichkeit der [[Erinnerung]]

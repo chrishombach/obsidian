@@ -3,3 +3,4 @@
 	- Dengeneriert die Menschheit deswegen?
 - Lösung: Menschen müssen nicht mehr zwingend Wissen weitergeben, sondern die Fähigkeit Wissen zu erlangen
 - [[Schule]] sollte sich auf das erlangen von Wissen konzentrieren und nicht dem Wissen selbst! 
+- siehe [[Deep Work - Introduction]]
