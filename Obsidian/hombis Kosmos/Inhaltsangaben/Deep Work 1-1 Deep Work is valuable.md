@@ -1,0 +1,23 @@
+[[newport-2016]]
+- [[Brynjolfsson and McAfee]]  Technologischer Fortschritt:
+	- Menschen, die Arbeiten verrichten, die von intelligenten Maschinen verrichtet werden, werden nicht mehr gebraucht
+	- Durch [[Remote Working]] Technologoen sind übrige Arbeiter nicht mehr am lokalen Standort gebunden -> [[New Economy]]
+- Es wird Gewinner und Verlierer der NE geben:
+	- Mit der Arbeitswelt wird es nicht bergab gehen, sondern es wird umverteilt
+- 3 Typen von Gewinnern:
+	- [[High Skilled Worker]]: Professionals, die mit den intelligenten Maschinen extrem gut umgehen können (Datenanalyse, High Speed Kommunikation, Rapid Prototyping)
+	- [[Superstars]]: Individuen, die eine Sache extrem gut können & Reputation haben. Spezialisten.
+		-  Da sie lokal nicht mehr gebunden sein müssen, sind sie für viele verfügbar )Wie Musik-, oder Filmstars)
+	- [[Owner]]: Geldgeber, [[Investoren]], [[Kapital]]besitzer & [[Unternehmer]]
+- Gegenstand des Buches sind nicht Owner
+- Die Kernfähigkeiten um in der NE zu bestehen sind:
+	- Schwere Dinge schnell lernen können
+	- Arbeit auf exzellentem Niveau zu verrichten
+	-> Das ist nur mit Deep Work möglich
+- (Die Fähigkeit iPds zu bedienen sind nicht herrausragende technische Fähigkeiten, es geht darum die Maschinen im Kern zu verstehen, bedienen zu können -> [[Programmiersprachen]])
+- [[Sertillanges]] beschreibt in den 1920ern: Um schwere Dinge zu erlernen benötigt man Konzentration
+- [[K. Anders Erikson]] 1990ern: Ein Meister im Fach wird man nur durch uneingeschränkte Übung und Tätigkeit -> [[Malcom Gladwell]]
+- Was benötigt man für uneingeschränkte Tätigkeit:
+	- Aufmerksamkeit ist fokussiert auf die eine Sache
+	- Man erhält Feedback zur Sache
+- [[Neuroowissenschaft]]: Beim Training einer Sache legt sich eine [[Myolin]] Schicht um die entsprechenden Nervenzellen, die Neuronen elektrisch abschirmt und schneller und sauberer lernen lässt.

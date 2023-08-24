@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ea8bddb66c4400",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "477e597ba2fa0d13",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "6534f0b818e6971f",
         "type": "tabs",
         "children": [
@@ -27,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hombis Kosmos/Quellen/stetka-2021.md",
+                "file": "hombis Kosmos/Inhaltsangaben/Die Entwicklung der Sprache.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0453d13d48b87939",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +152,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "477e597ba2fa0d13",
+  "active": "0453d13d48b87939",
   "lastOpenFiles": [
+    "hombis Kosmos/Inhaltsangaben/Financial Modelling.md",
+    "hombis Kosmos/Inhaltsangaben/PnL bei FX Hedges.md",
+    "hombis Kosmos/Quellen/2xideas.md",
+    "hombis Kosmos/Inhaltsangaben/Entwicklung des Gehirns während der kulturellen Revolution.md",
+    "hombis Kosmos/Inhaltsangaben/Die Entwicklung der Sprache.md",
+    "hombis Kosmos/Atomizen/10000 hour rule.md",
+    "Malcom Gladwell.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work 1-1 Deep Work is valuable.md",
+    "hombis Kosmos/Templates/Note.md",
+    "hombis Kosmos/Quellen/stetka-2021.md",
+    "hombis Kosmos/Quellen/newport-2016.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
     "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
     "hombis Kosmos/Gedanken/Veränderung des Lernens an kultureller revolution.md",
-    "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
-    "hombis Kosmos/Quellen/newport-2016.md",
-    "hombis Kosmos/Quellen/stetka-2021.md",
     "hombis Kosmos/Quellen/marshall - 2015.md",
     "hombis Kosmos/Quellen/harari-2011.md",
     "hombis Kosmos/Quellen/Bibliothek.md",
@@ -171,10 +176,9 @@
     "hombis Kosmos/Atomizen/Epigenetik.md",
     "hombis Kosmos/Atomizen/Erziehung.md",
     "Untitled.canvas",
-    "ineptitud.md",
-    "vergesslich.md",
-    "Checkliste.md",
-    "hombis Kosmos/Inhaltsangaben/Die Entwicklung der Sprache.md",
+    "hombis Kosmos/Atomizen/ineptitud.md",
+    "hombis Kosmos/Atomizen/vergesslich.md",
+    "hombis Kosmos/Atomizen/Checkliste.md",
     "hombis Kosmos/Unbenannt.md",
     "hombis Kosmos/Atomizen/TDD Cycle.md"
   ]
