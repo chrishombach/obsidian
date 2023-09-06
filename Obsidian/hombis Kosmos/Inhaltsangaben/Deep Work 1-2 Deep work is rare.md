@@ -1,0 +1,24 @@
+- Unternehmen unterstützen und setzten eher auf ablenkende ELemente, wie [[Instant Messages]], [[Open Office]], unmittelbare Kommunikation, statt auf [[Deep Work]] -> Paradox
+- Open Offices & Instant Messages erzwugen permantente Ablenkung -> Fehlendes Deep Work liegt im System
+- Die Auswirkung von Deep Work Ablenkern lassen sich schwer beziffern:
+	- Man kann versuchen Zeit & Gehalt für das Beantworten von E-Mails gegeneinander zu rechnen und den erzeugten Wert gegenrechnen.
+- **[[Metric Black Hole]]** Die Schwierigkeit den Verlust von ablenkenden Tätigkeiten zu beziffern führt dazu, dass diese nicht als solche bewertet werden
+- [[Leslie Perlow]] untersuchte den Effekt, wenn Arbeitnehmenr nicht permanent erreichbar sind
+	- -> Arbeitsgruppen in High Pressure Unternehmen nimmt 1 Tag/Woche frei ohne jegliche Kommunikation
+	-  Effekte durchweg positiv
+- **[[Principle of Least Resistance]]**: Im Arbeitsumfeld neigen wir, wenn es kein klare Feedback zum Ergebnis gibt, dazu das Einfachste zu machen.
+- D.h. dass in einem Umfeld mit E-Mail Response innerhalb einer Stunde und Instant Messaging wir eher die ad hoc Tätigkeiten abarbeiten, statt unseren Tag zu strukturieren.
+- (zu Lesen: [[Getting things done]])
+- Principle of Least Resistance - verursacht durch das Metric Black Hole - führt zu mehr [[Shallow Work]] und weniger [[Deep Work]].
+	- -> Im industriellen Zeitalter ([[Industrialisierung]]) konnte man leicht den Wert eines Arbeiters bemessen. Wie lange dauert es bis ein Arbeitsschritt durchgeführt wurde?
+	- Heutzutage ist das bedeutend schwerer im Zuge der [[New Economy]]
+- **[[Busyness as Proxy for Productivity]]**:  Wenn klare Maßregeln fehlen, die den Wert einer Arbeit indizieren, bemessen viele Arbeiter ihren Wert daran, dass sie sichtbar viel machen (nicht zwingend wertvoll)
+- Lesen & Antworten von [[EMail]] , in Meetings sein, etc hindert [[Deep Work]], sind aber sichtbar -> man wirk produktiv
+- Meßbar ist der Effekt des Proxy nur schwer wegen des Metric Black Hole.
+- EIn Metrik, um Wert zu signalisiern, ist Visibilität im Internet (Likes, Clicks, etc...)
+- Eine gute NYT Journalistin wird genötigt zu Tweeten, wenngleich sie im fokussierten arbeiten viel besser ist.
+	- Warum sollte die ihre Arbeit stören, wenn dieses die Qualität verringert?
+	- [[Technopoly]] (Aus [[Brave New World]]): Nicht Infragestellen anderer Werte als die der Technik. -> Das [[Internet]] ist eher [[Ideologie]] als [[Technologie]].
+- Wegen der internetzentristischen Technopoly werden ablenkende Tätigkeiten als wichtiger heran gehoben.
+	- -> Ignoriert man das wird man unsichtbar und irrelevant.
+- [[Deep Work]] baut auf Qualität, Fachmännichkeit, Handwerk & Meisterhaftigkeit -> Werte, die altmodisch und nicht technologisch sind.

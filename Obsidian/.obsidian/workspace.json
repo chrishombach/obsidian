@@ -11,7 +11,7 @@
             "id": "26a5e1562fc340e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,6 +140,10 @@
   },
   "active": "26a5e1562fc340e6",
   "lastOpenFiles": [
+    "Turning.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work 1-2 Deep work is rare.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work 1-1 Deep Work is valuable.md",
+    "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
     "hombis Kosmos/Inhaltsangaben/Die Zukunft des Gehirns.md",
     "Untitled.canvas",
     "2023-08-24.md",
@@ -151,11 +155,9 @@
     "hombis Kosmos/Inhaltsangaben/Entwicklung des Gehirns während der kulturellen Revolution.md",
     "hombis Kosmos/Atomizen/10000 hour rule.md",
     "Malcom Gladwell.md",
-    "hombis Kosmos/Inhaltsangaben/Deep Work 1-1 Deep Work is valuable.md",
     "hombis Kosmos/Templates/Note.md",
     "hombis Kosmos/Quellen/stetka-2021.md",
     "hombis Kosmos/Quellen/newport-2016.md",
-    "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
     "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
     "hombis Kosmos/Gedanken/Veränderung des Lernens an kultureller revolution.md",
     "hombis Kosmos/Quellen/marshall - 2015.md",
@@ -164,7 +166,6 @@
     "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
     "hombis Kosmos/Atomizen/Epigenetik.md",
     "hombis Kosmos/Atomizen/Erziehung.md",
-    "hombis Kosmos/Atomizen/ineptitud.md",
-    "hombis Kosmos/Atomizen/vergesslich.md"
+    "hombis Kosmos/Atomizen/ineptitud.md"
   ]
 }

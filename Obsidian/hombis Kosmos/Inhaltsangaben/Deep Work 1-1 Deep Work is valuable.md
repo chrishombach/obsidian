@@ -21,3 +21,8 @@
 	- Aufmerksamkeit ist fokussiert auf die eine Sache
 	- Man erhält Feedback zur Sache
 - [[Neuroowissenschaft]]: Beim Training einer Sache legt sich eine [[Myolin]] Schicht um die entsprechenden Nervenzellen, die Neuronen elektrisch abschirmt und schneller und sauberer lernen lässt.
+- [[Adam Grant]]: Hoch-Qualitätsarbeit = (Aufgewendete Zeit) x (intensität des Fokus)
+- [[Sophie Leroy]]: *Attention Residue*: Wenn man seine Aufmerksamkeit von einer Sache auf die andere lenkt, dauert es bis die volle [[Aufmerksamkeit]] wieder eingestellt ist.
+	- -> Experimentell: Probanten, die sich von einer Sache der nächsten widmen mussten, ohne diese erste zu vervollständigen, haben die zweite schlechter durchgeführt.
+	- Um die Intesität des Fokus zu erhöhen muss man das Attention Residue verringern, also alles abschalten, was ablenkt oder zur nächsten Tätigkeit übergehen.
+	- -> [[Multitasking]] ist Quatsch!
