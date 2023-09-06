@@ -4,18 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "7243b9ae132fc14d",
-        "type": "tabs",
+        "id": "dd0938f5dc1a9871",
+        "type": "split",
         "children": [
           {
-            "id": "26a5e1562fc340e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "7243b9ae132fc14d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26a5e1562fc340e6",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c9c4b49a6044625",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "982bd770dcb30608"
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "64e86f81bc65e34a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e6606fdbbec49b5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "982bd770dcb30608"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md"
+              }
             }
           }
         ]
@@ -138,10 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a5e1562fc340e6",
+  "active": "9c9c4b49a6044625",
   "lastOpenFiles": [
-    "Turning.md",
+    "hombis Kosmos/Gedanken/Veränderung des Lernens an kultureller revolution.md",
+    "hombis Kosmos/Atomizen/Kaparten.md",
+    "Pasted image 20230906212853.png",
     "hombis Kosmos/Inhaltsangaben/Deep Work 1-2 Deep work is rare.md",
+    "Turning.md",
     "hombis Kosmos/Inhaltsangaben/Deep Work 1-1 Deep Work is valuable.md",
     "hombis Kosmos/Inhaltsangaben/Deep Work - Introduction.md",
     "hombis Kosmos/Inhaltsangaben/Die Zukunft des Gehirns.md",
@@ -159,13 +211,11 @@
     "hombis Kosmos/Quellen/stetka-2021.md",
     "hombis Kosmos/Quellen/newport-2016.md",
     "hombis Kosmos/Inhaltsangaben/Checklist Manifesto.md",
-    "hombis Kosmos/Gedanken/Veränderung des Lernens an kultureller revolution.md",
     "hombis Kosmos/Quellen/marshall - 2015.md",
     "hombis Kosmos/Quellen/harari-2011.md",
     "hombis Kosmos/Quellen/Bibliothek.md",
     "hombis Kosmos/Inhaltsangaben/Russland - Die Macht der Geographie.md",
     "hombis Kosmos/Atomizen/Epigenetik.md",
-    "hombis Kosmos/Atomizen/Erziehung.md",
-    "hombis Kosmos/Atomizen/ineptitud.md"
+    "hombis Kosmos/Atomizen/Erziehung.md"
   ]
 }

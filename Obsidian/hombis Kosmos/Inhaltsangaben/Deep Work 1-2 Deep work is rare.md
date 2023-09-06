@@ -1,3 +1,4 @@
+[[newport-2016]]
 - Unternehmen unterstützen und setzten eher auf ablenkende ELemente, wie [[Instant Messages]], [[Open Office]], unmittelbare Kommunikation, statt auf [[Deep Work]] -> Paradox
 - Open Offices & Instant Messages erzwugen permantente Ablenkung -> Fehlendes Deep Work liegt im System
 - Die Auswirkung von Deep Work Ablenkern lassen sich schwer beziffern:
